@@ -1,2 +1,2 @@
-# Hello-World-from-SZ
+# my python learning at github
 My first Respository in Github
